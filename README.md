@@ -41,7 +41,7 @@ send post in /cards with the admin token generated.
 
 after you updated the cards in /cards
 
-you get another token as a client in /tokens
+you go and post to get another token as a client in /tokens
 
 and view it again in /cards.
 
