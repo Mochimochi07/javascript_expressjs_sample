@@ -48,7 +48,7 @@ and view it again in /cards.
 
 
 
-Told ya its kinda hard to learn much of this stuff
+
 
 
 
